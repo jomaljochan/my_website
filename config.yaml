@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Jomal Jochan and I am an MAM 2023 student at LBS
+    title: Jomal Jochan - LBS MAM 2023
   blog: {}
   contact:
     address:
@@ -42,21 +42,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+#      - icon: fa-twitter
+#        label: Twitter
+#        url: https://www.twitter.com
+#      - icon: fa-facebook
+#        label: Facebook
+#        url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/the_lowkey_joke/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/jomaljochan/
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/jomaljochan/
   image: ''
   name: Jomal Jochan
   navigation:
@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: A quick introduction
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
