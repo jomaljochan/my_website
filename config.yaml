@@ -1,7 +1,7 @@
 baseURL: https://jomal-portfolio.netlify.app/ 
 languageCode: en-us
 title: Forty
-theme: forty
+theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
 params:
